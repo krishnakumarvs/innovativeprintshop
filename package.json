@@ -1,0 +1,19 @@
+{
+  "name": "innovativeprintshop",
+  "version": "1.0.0",
+  "description": "Application for innovative print shop semi automated Id card printing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnakumarvs/innovativeprintshop.git"
+  },
+  "author": "Krishna Kumar VS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnakumarvs/innovativeprintshop/issues"
+  },
+  "homepage": "https://github.com/krishnakumarvs/innovativeprintshop#readme"
+}
