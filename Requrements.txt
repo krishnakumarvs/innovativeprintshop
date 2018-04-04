@@ -1,0 +1,22 @@
+Left side tab
+-> Home page
+-> List of all classes (classs name, techer name, total students,completed students, percentage completed, status - submitted:not submitted , preview button - just for view layout, submit for printing ]
+
+
+Docs
+For yoman commands
+https://github.com/yeoman/generator-angular
+To add new route
+yo angular:route allClassesSummary 
+
+
+Toast library
+https://www.npmjs.com/package/angular-toastr
+http://foxandxss.github.io/angular-toastr/
+
+
+
+
+admin template from
+http://solutionportal.net/themes/degree/#/dashboard
+
