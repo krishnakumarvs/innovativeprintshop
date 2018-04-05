@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/krishnakumarvs/innovativeprintshop/issues"
   },
-  "homepage": "https://github.com/krishnakumarvs/innovativeprintshop#readme"
+  "homepage": "https://github.com/krishnakumarvs/innovativeprintshop#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "gzippo": "^0.2.0"
+  }
 }
