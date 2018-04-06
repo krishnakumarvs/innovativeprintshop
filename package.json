@@ -1,24 +1,17 @@
 {
-  "name": "innovativeprintshop",
-  "version": "1.0.0",
-  "description": "Application for innovative print shop semi automated Id card printing",
-  "main": "index.js",
+  "name": "node-using-express-generator",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "start" : "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./bin/www"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/krishnakumarvs/innovativeprintshop.git"
-  },
-  "author": "Krishna Kumar VS",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/krishnakumarvs/innovativeprintshop/issues"
-  },
-  "homepage": "https://github.com/krishnakumarvs/innovativeprintshop#readme",
   "dependencies": {
-    "express": "^4.16.3",
-    "gzippo": "^0.2.0"
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.15.5",
+    "morgan": "~1.9.0",
+    "serve-favicon": "~2.4.5"
   }
 }
